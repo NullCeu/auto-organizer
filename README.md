@@ -442,9 +442,9 @@ Desenvolvido com ❤️ usando:
 
 ### Como Obter Ajuda
 
-- **Issues**: [GitHub Issues](https://github.com/seu-usuario/file-organizer/issues)
-- **Discussões**: [GitHub Discussions](https://github.com/seu-usuario/file-organizer/discussions)
-- **Email**: seu-email@example.com
+- **Issues**: [GitHub Issues](https://github.com/NullCeu/auto-organizer/issues)
+- **Discussões**: [GitHub Discussions](https://github.com/NullCeu/auto-organizer/discussions)
+- **Email**: conchadoida@gmail.com
 
 ### Reportando Bugs
 
