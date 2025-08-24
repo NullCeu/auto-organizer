@@ -63,11 +63,6 @@ pip install watchdog
 pip install -r requirements.txt
 ```
 
-**requirements.txt:**
-```
-watchdog>=2.1.0
-```
-
 ---
 
 ## Como Usar
