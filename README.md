@@ -41,7 +41,7 @@ O **File Organizer** é uma ferramenta Python que automatiza a organização de 
 
 ```bash
 # Clone o repositório
-git clone [https://github.com/seu-usuario/file-organizer.git](https://github.com/NullCeu/auto-organizer)
+git clone https://github.com/NullCeu/auto-organizer
 cd file-organizer
 
 # Execute diretamente
